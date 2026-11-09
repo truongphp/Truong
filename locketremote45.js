@@ -894,11 +894,11 @@ if (ua.includes("Locket")) {
                                 ]
                             },
                             "icon": {
-                                "data": "💭",
+                                "data": "❄️",
                                 "type": "emoji"
                             },
                             "max_lines": 1,
-                            "text": "Đang bận tương tư",
+                            "text": "Mùa đông ơiii",
                             "text_color": "#FFFFFF",
                             "type": "static_content"
                         }
