@@ -161,7 +161,7 @@ if (!ua || ua.includes("Locket")) {
     // ============================================================
     // 3. CAMERA, VIDEO & UPLOAD QUALITY (BỎ PHOTOBOOTH & AI CHO NHẸ)
     // ============================================================
-    var MY_VIDEO_DURATION = 60.0;
+    var MY_VIDEO_DURATION = 45.0;
     var MAX_DURATION = MY_VIDEO_DURATION;
     var QUALITY_MBPS = 0.8;
     var durationStr = MY_VIDEO_DURATION.toString();
