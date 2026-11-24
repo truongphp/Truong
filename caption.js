@@ -163,7 +163,7 @@ if (!ua || ua.includes("Locket")) {
     // ============================================================
     var MY_VIDEO_DURATION = 60.0;
     var MAX_DURATION = MY_VIDEO_DURATION;
-    var QUALITY_MBPS = 0.2;
+    var QUALITY_MBPS = 0.8;
     var durationStr = MY_VIDEO_DURATION.toString();
     var MAX_SIZE_BYTES = 104857600; // 100MB
 
@@ -237,7 +237,7 @@ if (!ua || ua.includes("Locket")) {
         goldMaxDuration: durationStr,
         max_file_size: MAX_SIZE_BYTES.toString(),
         max_upload_bytes: MAX_SIZE_BYTES.toString(),
-        video_quality_mbps: "0.2",
+        video_quality_mbps: "0.8",
         video_sound_enabled: "true",
         microphone_enabled: "true",
         camera_microphone_enabled: "true",
